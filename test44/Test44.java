@@ -4,8 +4,8 @@ package test44;
 public class Test44 {
 	public static void main(String[] args) {
 		Solution test = new Solution();
-		String s = "leetcode";
-		String p = "*e*t?d*";
+		String s = "ac*bcd";
+		String p = "abcd*";
 		System.out.println(test.isMatch(s,p));
 	}
 }

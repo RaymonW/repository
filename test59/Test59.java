@@ -1,7 +1,6 @@
 package test59;
 
 
-
 public class Test59 {
 	public static void main(String[] args) {
 		Solution test = new Solution();
